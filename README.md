@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomjyguo
 - 👀 I’m interested in incorporating coding into my everyday life!
 - 🌱 I’m currently studying Financial Mathematics at the University of Waterloo.
-- 💞️ I’m looking to collaborate on small beginner projects.
+- 🏗️ I'm working towards developing a personal portfolio with lots of projects! 
 - 📫 You can reach me at tg2guo@uwaterloo.ca.
 
 <!---
