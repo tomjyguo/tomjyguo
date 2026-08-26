@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomjyguo
-- 👀 I’m interested in incorporating coding into my everyday life!
+- 👀 I’m interested in creating cool finance projects!
 - 🌱 I’m currently studying Financial Mathematics at NYU.
-- 🏗️ I'm working towards developing a personal portfolio with lots of projects! 
+- 🏗️ I'm doing research to find my next personal project! 
 - 📫 You can reach me at tomguo@nyu.edu.
 
 <!---
